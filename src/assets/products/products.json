@@ -1,52 +1,43 @@
 [
   {
     "productId": 1,
-    "productName": "Leaf Rake",
-    "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2019",
-    "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 19.95,
-    "starRating": 3.2,
-    "imageUrl": "assets/images/leaf_rake.png"
+    "productName": "Office Space 1, Tulsa",
+    "productCode": "GDN-0012",
+    "releaseDate": "March 12, 2020",
+    "description": "1 Floor, 28,000 SF. Over 50 cubicles",
+    "price": 3500,
+    "starRating": 3.5,
+    "imageUrl": "assets/images/thumbnail_office1.jpg"
+
   },
   {
     "productId": 2,
-    "productName": "Garden Cart",
-    "productCode": "GDN-0023",
-    "releaseDate": "March 18, 2019",
-    "description": "15 gallon capacity rolling garden cart",
-    "price": 32.99,
+    "productName": "Office Space 2, Stillwater",
+    "productCode": "GDN-0013",
+    "releaseDate": "March 15, 2021",
+    "description": "2 floors, 30,000 SF",
+    "price":4200,
     "starRating": 4.2,
-    "imageUrl": "assets/images/garden_cart.png"
-  },
-  {
-    "productId": 5,
-    "productName": "Hammer",
-    "productCode": "TBX-0048",
-    "releaseDate": "May 21, 2019",
-    "description": "Curved claw steel hammer",
-    "price": 8.9,
-    "starRating": 4.8,
-    "imageUrl": "assets/images/hammer.png"
-  },
-  {
-    "productId": 8,
-    "productName": "Saw",
-    "productCode": "TBX-0022",
-    "releaseDate": "May 15, 2019",
-    "description": "15-inch steel blade hand saw",
-    "price": 11.55,
-    "starRating": 3.7,
-    "imageUrl": "assets/images/saw.png"
-  },
-  {
-    "productId": 10,
-    "productName": "Video Game Controller",
-    "productCode": "GMG-0042",
-    "releaseDate": "October 15, 2018",
-    "description": "Standard two-button video game controller",
-    "price": 35.95,
-    "starRating": 4.6,
-    "imageUrl": "assets/images/xbox-controller.png"
+    "imageUrl": "assets/images/office2.jpg"
+  }
+  ,{
+    "productId": 3,
+    "productName": "Office Space 3, Tulsa",
+    "productCode": "GDN-0014",
+    "releaseDate": "April 17, 2020",
+    "description": "2 floors, 35,000 SF, 100+ Cubicles",
+    "price":4200,
+    "starRating": 3.3,
+    "imageUrl": "assets/images/thumbnail_office4.jpg"
+  }
+  ,{
+    "productId": 4,
+    "productName": "Edge Apartments, Norman",
+    "productCode": "GDN-0015",
+    "releaseDate": "March 15, 2021",
+    "description": "12 floors. 1-4 bedrooms available",
+    "price":1650,
+    "starRating": 4,
+    "imageUrl": "assets/images/thumbnail_edge.jpg"
   }
 ]

@@ -1,12 +1,43 @@
 [
   {
     "productId": 1,
-    "productName": "House1",
-    "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2021",
-    "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 130000,
-    "starRating": 3.2,
-    "imageUrl": "assets/images/download.jfif"
+    "productName": "Office Space 1, Tulsa",
+    "productCode": "GDN-0012",
+    "releaseDate": "March 12, 2020",
+    "description": "1 Floor, 28,000 SF. Over 50 cubicles",
+    "price": 3500,
+    "starRating": 3.5,
+    "imageUrl": "assets/images/thumbnail_office1.jpg"
+
+  },
+  {
+    "productId": 2,
+    "productName": "Office Space 2, Stillwater",
+    "productCode": "GDN-0013",
+    "releaseDate": "March 15, 2021",
+    "description": "2 floors, 30,000 SF",
+    "price":4200,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/office2.jpg"
+  }
+  ,{
+    "productId": 3,
+    "productName": "Office Space 3, Tulsa",
+    "productCode": "GDN-0014",
+    "releaseDate": "April 17, 2020",
+    "description": "2 floors, 35,000 SF, 100+ Cubicles",
+    "price":4200,
+    "starRating": 3.3,
+    "imageUrl": "assets/images/thumbnail_office4.jpg"
+  }
+  ,{
+    "productId": 4,
+    "productName": "Edge Apartments, Norman",
+    "productCode": "GDN-0015",
+    "releaseDate": "March 15, 2021",
+    "description": "12 floors. 1-4 bedrooms available",
+    "price":1650,
+    "starRating": 4,
+    "imageUrl": "assets/images/thumbnail_edge.jpg"
   }
 ]
